@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 .odd {
-    font-family: verdana;
+    font-family: Verdana, DejaVu Sans, sans-serif;
     background-color: lightpink;
 }
 .font-size {
